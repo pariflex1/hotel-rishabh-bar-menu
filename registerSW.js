@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/hotel-rishabh-bar-menu/sw.js', { scope: '/hotel-rishabh-bar-menu/' })})}
