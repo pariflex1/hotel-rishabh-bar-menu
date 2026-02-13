@@ -1,1 +1,0 @@
-hotel rishabh bar menu
